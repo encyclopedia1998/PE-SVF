@@ -14,14 +14,14 @@ This project is developed for the evaluation of **positional error in SVF measur
 # Sample Output Dataset
 (1) **SVF.csv** - results of SVF calulated for point1.shp  
 (2) **PESVF.csv** - results of PE-SVF for DOP.shp and AOP.shp  
-(3) **RPESVF.csv** - results of relative PE-SVF(RPE-SVF) for DOP.shp and AOP.shp     
+(3) **RPESVF.csv** - results of relative PE-SVF (RPE-SVF) for DOP.shp and AOP.shp     
 
 # Toolbox and Script Folder
 (1) **SVF Calculation Toolbox.tbx** - a toolbox based on ArcGIS 10.6 to calculate the SVF, PE-SVF and RPE-SVF values from specific SVF observation points of **actual SVF observation point** and **desired SVF observation point**  
-(2) **SVF_Calculation_Script** - Python source code to calculate SVF, PE-SVF and RPE-SVF in SVF Calculation Toolbox.tbx  
+(2) **SVF_Calculation_Script** - Python source codes to calculate SVF, PE-SVF and RPE-SVF in SVF Calculation Toolbox.tbx  
 
 # Helper Folder
-(1) **Toolbox Helper.pdf** - a tutorial on using the provided toolbox and Python script to calculate SVF, PE-SVF and RPE-SVF
+(1) **Toolbox Helper.pdf** - a tutorial on using the provided toolbox to calculate SVF, PE-SVF and RPE-SVF
 
 # Usage
 For examples, please refer to the [Documentation](https://github.com/encyclopedia1998/PE-SVF/tree/main/Helper)
