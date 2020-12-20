@@ -20,7 +20,7 @@ This project is developed for the evaluation of **positional error in SVF measur
 (3) **RPESVF.csv** - results of relative PE-SVF (RPE-SVF) for DOP.shp and AOP.shp     
 
 # Toolbox and Script Folder
-(1) **SVF Calculation Toolbox for ArcGIS Desktop 10.X.tbx** - Toolboxes based on ArcGIS Desktop 10.X version to calculate the SVF, PE-SVF and RPE-SVF
+(1) **SVF Calculation Toolbox for ArcGIS Desktop 10.X.tbx** - Toolboxes based on ArcGIS Desktop 10.X version to calculate the SVF, PE-SVF and RPE-SVF  
 (2) **SVF_Calculation_source_code** - Python source codes to calculate SVF, PE-SVF and RPE-SVF in **SVF Calculation Toolbox for ArcGIS Desktop 10.6.tbx**  
 
 # Helper Folder
