@@ -28,3 +28,6 @@ For examples, please refer to the [Documentation](https://github.com/encyclopedi
 
 # License
 Distributed under the [MIT License](https://choosealicense.com/licenses/mit/). See LICENSE for more information.
+
+# Update 2020.12.20   
+We have add **SVF Calculation Toolbox for ArcGIS Desktop 10.7.tbx** and **SVF Calculation Toolbox for ArcGIS Desktop 10.8.tbx** for ArcGIS Desktop 10.7 and ArcGIS Desktop 10.8 users. The experimental process is the same as ArcGIS Desktop 10.6. For more information, please refer to the [Documentation](https://github.com/encyclopedia1998/PE-SVF/tree/main/Helper)  
